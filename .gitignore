@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+runs/
+dataset/
+*.pyc
+.idea/
+traffic-lights.v1i.yolov11.zip
+yolo11n.pt
